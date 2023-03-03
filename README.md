@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keshinvk
 - 👀 I’m interested in the intersection of neuroscience and computer science
-- 🌱 I’m currently learning CS50 and applying to medical school
-- 💞️ I’m looking to collaborate on learning fundamentals
+- 🌱 I just finished CS50x, am starting CS50ai and medical school in the fall
+- 💞️ I’m looking to collaborate on medical research projects incorporating AI
 - 📫 How to reach me: visahan.keshin@gmail.com
 
 <!---
